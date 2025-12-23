@@ -2,7 +2,7 @@
   <nav
     ref="nav"
     role="navigation"
-    aria-label="Main menu"
+    aria-label="Main navigation"
   >
     <ul class="font-bold">
       <li>
