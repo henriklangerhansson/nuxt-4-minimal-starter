@@ -1,0 +1,20 @@
+@utility container {
+  padding-inline: 1.5rem;
+  margin-inline: auto;
+
+  @variant sm {
+    padding-inline: 2rem;
+  }
+
+  @variant lg {
+    padding-inline: 4rem;
+  }
+
+  @variant xl {
+    padding-inline: 6rem;
+  }
+
+  @variant 2xl {
+    padding-inline: 9rem;
+  }
+}

@@ -1,0 +1,6 @@
+@theme {
+  --text-base: 1rem;
+  --text-base--line-height: 1.5em;
+  --text-base--letter-spacing: 0;
+  --text-base--font-weight: 400;
+}
